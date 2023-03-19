@@ -5,3 +5,5 @@ matplotlib
 seaborn
 jupyter
 imbalanced-learn
+pydot
+graphviz
