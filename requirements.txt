@@ -1,3 +1,4 @@
+ipvkernel
 numpy
 pandas
 scikit-learn
